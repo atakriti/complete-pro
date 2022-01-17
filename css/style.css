@@ -75,7 +75,7 @@ visibility: hidden;
 /* .................Wallpaper..................... */
 
 .wallpaper{
-background-image:url("./sailboat.jpg");
+background-image:url("../img/sailboat.jpg");
 width: 100%;
 height: 701px;
 background-position: -282px -549px;
@@ -254,7 +254,7 @@ b{
 /* ............................ SEA ........................... */
 
 .sea{
-    background-image: url("./sea.jpg");
+    background-image: url("../img/sea.jpg");
     width: 100%;
     height: 800px;
     background-repeat: no-repeat;
@@ -361,7 +361,7 @@ b{
 } */
 
 .map{
-    background-image: url("./map.jpg");
+    background-image: url("../img/map.jpg");
     width: 100%;
     height: 1000px;
     background-attachment: fixed;
