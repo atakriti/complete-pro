@@ -423,3 +423,12 @@ b{
 
 
 /* ................................ END ............................ */
+
+.end{
+    width: 100vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
